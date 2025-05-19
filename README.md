@@ -3,7 +3,7 @@
 
 <br>
 <h3>🛠️ Current Projects:</h3>
-<p>- Creating/Designing website for in-game community (priority)</p>
+<p>- Creating/Designing website for a in-game community (priority)</p>
 <p>- Updating portfolio website</p>
 <br>
 
