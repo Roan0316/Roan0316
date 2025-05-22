@@ -46,5 +46,5 @@ I'm a passionate **Software Developer in training** at **Graafschap College**, f
 ### ✉️ Contact
 
 Portfolio: *Coming soon*  
-LinkedIn: *https://www.linkedin.com/in/roan-stift*  
+**[LinkedIn] (https://www.linkedin.com/in/roan-stift)**
 
