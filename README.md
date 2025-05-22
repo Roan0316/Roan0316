@@ -1,10 +1,10 @@
 # Hi, I'm Roan Stift
 
-I'm a passionate **Software Developer in training** at the **Graafschap College**, focused on building creative, user-friendly, and maintainable applications. Whether it’s designing slick UIs or structuring robust backends, I enjoy working across the full stack to bring ideas to life.
+I'm a passionate **Software Developer in training** at **Graafschap College**, focused on building creative, user-friendly, and maintainable applications. Whether it’s designing slick UIs or structuring robust backends, I enjoy working across the full stack to bring ideas to life.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - **Based in:** Netherlands  
 - **Current projects:**  
@@ -13,7 +13,7 @@ I'm a passionate **Software Developer in training** at the **Graafschap College*
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ I'm a passionate **Software Developer in training** at the **Graafschap College*
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Roan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roan0316&show_icons=true&theme=tokyonight&hide=issues&hide_title=false)
 
@@ -43,7 +43,7 @@ I'm a passionate **Software Developer in training** at the **Graafschap College*
 
 ---
 
-## ✉️ Contact
+### ✉️ Contact
 
 Portfolio: *Coming soon*  
 LinkedIn: *https://www.linkedin.com/in/roan-stift*  
