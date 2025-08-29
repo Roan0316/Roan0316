@@ -7,7 +7,7 @@ I'm a passionate **Software Developer in training** at **Graafschap College**, f
 ### 🚀 About Me
 
 - **Based in:** Netherlands  
-- **Current projects:**
+- **Current projects:**                   
   • React App                                  
   • Website for a in-game community (On hold)                
   • Updating portfolio website
