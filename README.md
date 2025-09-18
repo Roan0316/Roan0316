@@ -27,7 +27,7 @@ I'm a passionate **Software Developer in training** at **Graafschap College**, f
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-293c59?style=flat&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-04876f?style=flat&logo=expo&logoColor=white)
 
 **Databases & Tools:**  
