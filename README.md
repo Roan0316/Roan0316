@@ -38,14 +38,6 @@ I'm a passionate **Software Developer in training** at **Graafschap College**, f
 
 ---
 
-### 📈 GitHub Stats
-
-![Roan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roan0316&show_icons=true&theme=tokyonight&hide=issues&hide_title=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roan0316&layout=compact&theme=tokyonight)
-
----
-
 ### ✉️ Contact
 
 Portfolio: *Coming soon*  
