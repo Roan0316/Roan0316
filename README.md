@@ -42,4 +42,4 @@ I'm a passionate **Software Developer in training** at **Graafschap College**, f
 Portfolio: *Coming soon*  
 **[LinkedIn](https://www.linkedin.com/in/roan-stift)**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roan0316&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roan0316&layout=compact&theme=dark)
