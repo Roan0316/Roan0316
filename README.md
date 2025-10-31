@@ -7,10 +7,9 @@ I'm a passionate **Software Developer in training** at **Graafschap College**, f
 ### 🚀 About Me
 
 - **Based in:** Netherlands  
-- **Current projects:**                   
-  • React Native App           
+- **Current projects:**            
   • Updating portfolio website            
-  • Scrumboard Web App                             
+  • Scrumboard Web App (TeamSprint)                             
 
 ---
 
