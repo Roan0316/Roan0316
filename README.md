@@ -8,7 +8,7 @@ I'm a passionate **Software Developer in training** at **Graafschap College**, f
 
 - **Based in:** Netherlands  
 - **Current projects:**            
-  • Updating portfolio website                           
+  • None                           
 
 ---
 
