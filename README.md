@@ -7,7 +7,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝                           Location      Netherlands
                                                               Education     Soon
 Roan Stift                                                    Focus         Frontend Development
-Software Developer in Training                                Interests     UI Design • Frontend • Security
+Software Developer                                            Interests     UI Design • Frontend • Security
 
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────
 
