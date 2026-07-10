@@ -1,13 +1,12 @@
 ```text
 ██████╗  ██████╗  █████╗ ███╗   ██╗
 ██╔══██╗██╔═══██╗██╔══██╗████╗  ██║ 
-██████╔╝██║   ██║███████║██╔██╗ ██║
-██╔══██╗██║   ██║██╔══██║██║╚██╗██║                           ABOUT
-██║  ██║╚██████╔╝██║  ██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝                           Location      Netherlands
-                                                              Education     Soon
-Roan Stift                                                    Focus         Frontend Development
-Software Developer                                            Interests     UI Design • Frontend • Security
+██████╔╝██║   ██║███████║██╔██╗ ██║                           ABOUT
+██╔══██╗██║   ██║██╔══██║██║╚██╗██║
+██║  ██║╚██████╔╝██║  ██║██║ ╚████║                           Location      Netherlands
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝                           Education     Soon
+                                                              Focus         Frontend Development
+Software Developer                                            Interests     UI Design • Frontend • Security                                         
 
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────
 
