@@ -14,7 +14,7 @@ Software Developer                                            Interests     UI D
 CURRENT                                                       CONTACT
 
 Status        Graduated                                       LinkedIn      linkedin.com/in/roan-stift
-Projects      None                                            Portfolio     Coming Soon
+Projects      Quotr                                           Portfolio     Coming Soon
 
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────
 
