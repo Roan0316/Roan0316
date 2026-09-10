@@ -1,29 +1,50 @@
-```text
-██████╗  ██████╗  █████╗ ███╗   ██╗
-██╔══██╗██╔═══██╗██╔══██╗████╗  ██║ 
-██████╔╝██║   ██║███████║██╔██╗ ██║                           ABOUT
-██╔══██╗██║   ██║██╔══██║██║╚██╗██║
-██║  ██║╚██████╔╝██║  ██║██║ ╚████║                           Location      Netherlands
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝                           Education     Soon
-                                                              Focus         Frontend Development
-Software Developer                                            Interests     UI Design • Frontend • Security                                         
+<div align="center">
 
-───────────────────────────────────────────────────────────────────────────────────────────────────────────
+# Roan Stift
 
-CURRENT                                                       CONTACT
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=440&lines=Software+Developer;UI+Design;Security" alt="Typing SVG" />
+</div>
 
-Status        Graduated                                       LinkedIn      linkedin.com/in/roan-stift
-Projects      Quotr                                           Portfolio     Coming Soon
+</div>
 
-───────────────────────────────────────────────────────────────────────────────────────────────────────────
+<br>
 
-TECH
+## About
 
-Languages                                                     Databases
-  HTML, CSS, JavaScript, PHP, C#, Java                          MySQL, SQLite
+| Type | Info |
+|:---|:---|
+| **Education** | Current HBO-ICT student |
+| **Location** | Netherlands |
+| **Focus** | Frontend Development |
+| **Interests** | UI Design · Security |
 
-Frameworks                                                    Tools
-  .NET, .NET MAUI, Blazor, Laravel, Angular, React,             Git, Figma
-     NextJS, Expo, JavaFX           
+## Currently
 
-```
+| **Status** | Project |
+|:---|:---|
+| **Designing** | [Quotr](#) — AI voice-to-text offerte app for freelancers |
+
+## Tech Stack
+
+**Languages**
+`HTML` `CSS` `JavaScript` `PHP` `C#` `Java`
+
+**Frameworks**
+`.NET` `.NET MAUI` `Blazor` `Laravel` `Angular` `React` `Next.js` `Expo` `JavaFX`
+
+**Databases**
+`MySQL` `SQLite`
+
+**Tools**
+`Git` `Figma` `VS Code` `Android Studio`
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/roan-stift) · Portfolio — coming soon
+
+<br>
+
+<div align="center">
+<sub>github.com/roan-stift</sub>
+</div>
