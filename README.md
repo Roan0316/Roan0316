@@ -23,7 +23,7 @@
 
 | **Status** | Project |
 |:---|:---|
-| **Designing** | [Quotr](#) — AI voice-to-text offerte app for freelancers |
+| **Designing** | [Quotr](https://github.com/Roan0316/Quotr) — AI voice-to-text offerte app for freelancers |
 
 ## Tech Stack
 
